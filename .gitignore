@@ -1,0 +1,8 @@
+### Maven template
+*.jar
+/target/
+/out/
+/.idea/
+.idea
+*.iml
+.gitignore
